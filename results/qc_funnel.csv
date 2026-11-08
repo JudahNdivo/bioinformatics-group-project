@@ -1,0 +1,7 @@
+step,sequences_remaining,removed_at_this_step,pct_of_raw_kept
+Raw FASTA records,5097,0,100.0
+After removing duplicate IDs,5097,0,100.0
+Has a matching metadata row,5097,0,100.0
+"Length >= 29,000 nt",5081,16,99.7
+<= 1% N / ambiguous bases,2811,2270,55.2
+Aligns to reference (>= 90% of positions),2811,0,55.2
