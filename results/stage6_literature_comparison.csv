@@ -1,0 +1,13 @@
+Finding in this study,Published claim,Source,Agreement
+Spike is the most variable gene (34.5 variable sites/kb; 132 sites),"Spike holds ~50% of mutations while being ~17% of the genome, across the whole genus",LaTourrette et al. (2021),Agrees
+RdRp is the most conserved gene (4.6 sites/kb; 98.6% invariant),ORF1b replication proteins are the least variable region of the genus,LaTourrette et al. (2021),Agrees
+"N is statistically as variable as Spike (median 5.56 vs 4.19/kb, p=0.27)",The fastest-evolving region of the genome lies within the nucleocapsid gene,Jungreis et al. (2021),Agrees
+N variation is 3x denser in disordered regions than folded domains (17.7 vs 5.9/100 aa),Not addressed by the reviewed literature,This study,Extends
+"R203K/G204R in the SR-rich linker: Alpha 100%/88%, Omicron 100%/96%","R203K/G204R are adaptive, raise replication and infectivity, and rose with Alpha",Wu et al. (2021),Agrees
+"RBD is enriched for variable sites (6.9% vs 2.7% of the rest of Spike, OR 2.6)",Spike's RBD concentrates the substitutions that matter for antigenicity,Harvey et al. (2021),Agrees
+"Positions 417, 484 and 501 are occupied in Beta and Omicron; 501 also in Alpha","K417N/T, E484K/A and N501Y recur across independently arisen variants",Dejnirattisai et al. (2022),Agrees
+"Delta carries L452R and T478K and no change at 417, 484 or 501",Delta's RBD changes are peripheral to the ACE2 binding footprint,Dejnirattisai et al. (2022),Agrees
+"7 of the 9 published Omicron RBD changes exceed 50%; Q493R 24%, G496S 4%","Omicron's RBD carries K417N, G446S, S477N, E484A, Q493R, G496S, Q498R, N501Y, Y505H",Dejnirattisai et al. (2022),Partly - see 6.5 note
+No change at any RdRp catalytic residue; P323L fixed in 100% of genomes,P323L travelled with D614G and marks clade G; it lies away from the active site,Mercatelli & Giorgi (2020),Agrees
+D614G in 96-100% of genomes of every variant,D614G became globally dominant and underlies all variants of concern,Winger & Caspari (2021),Agrees
+"E most conserved structural protein by median divergence (0.00/kb), M next (1.49)",M had the fewest amino-acid changes per residue of the four structural proteins,Troyano-Hernaez et al. (2021),Differs - see 6.5 note

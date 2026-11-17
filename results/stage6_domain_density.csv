@@ -1,0 +1,36 @@
+gene,domain,start,end,residues,distinct_changes,changes_per_100_aa
+S,Signal peptide,1,13,13,1,7.69
+S,NTD,14,305,292,54,18.49
+S,NTD-RBD linker,306,318,13,0,0.0
+S,RBD,319,541,223,58,26.01
+S,SD1,542,591,50,6,12.0
+S,SD2 / cleavage region,592,685,94,14,14.89
+S,Fusion peptide,816,833,18,0,0.0
+S,HR1,910,985,76,10,13.16
+S,Central helix,986,1035,50,1,2.0
+S,Connector domain,1076,1141,66,6,9.09
+S,HR2,1163,1213,51,4,7.84
+S,Transmembrane,1214,1237,24,1,4.17
+S,Cytoplasmic tail,1238,1273,36,4,11.11
+N,N-terminal IDR,1,43,43,8,18.6
+N,RNA-binding domain,44,180,137,9,6.57
+N,SR-rich linker,181,247,67,13,19.4
+N,Dimerisation domain,248,365,118,6,5.08
+N,C-terminal IDR,366,419,54,8,14.81
+M,N-terminal ectodomain,1,19,19,6,31.58
+M,Transmembrane 1,20,38,19,1,5.26
+M,Transmembrane 2,50,72,23,2,8.7
+M,Transmembrane 3,78,99,22,2,9.09
+M,C-terminal endodomain,100,222,123,8,6.5
+E,N-terminal,1,8,8,1,12.5
+E,Transmembrane / viroporin,9,38,30,4,13.33
+E,C-terminal,39,75,37,3,8.11
+RdRp,NiRAN,4,250,247,9,3.64
+RdRp,Interface,251,365,115,6,5.22
+RdRp,Fingers,366,581,216,9,4.17
+RdRp,Palm (motif A),582,620,39,2,5.13
+RdRp,Fingers (cont.),621,679,59,1,1.69
+RdRp,Palm (motif B),680,710,31,2,6.45
+RdRp,Palm (motif C),711,815,105,6,5.71
+RdRp,Thumb,816,920,105,3,2.86
+S,RBM (inside RBD),437,508,72,39,54.17

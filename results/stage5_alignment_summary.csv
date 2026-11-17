@@ -1,0 +1,6 @@
+gene,sequences,alignment_length,reference_length,extra_columns_(insertions),genomes_with_insertion
+S,80,3822,3822,0,0
+E,80,228,228,0,0
+M,80,669,669,0,0
+N,80,1260,1260,0,0
+RdRp,80,2796,2796,0,0

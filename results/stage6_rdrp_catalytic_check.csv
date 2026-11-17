@@ -1,0 +1,4 @@
+motif,residues,genomes_with_a_change,changes_seen
+D618 (motif A),618,0,none
+S682 / N691 (motif B),"682, 691",0,none
+SDD 759-761 (motif C),"759, 760, 761",0,none

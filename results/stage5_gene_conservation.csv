@@ -1,0 +1,6 @@
+gene,length_nt,variable_sites,variable_sites_per_kb,pct_invariant_sites,mean_entropy_bits,mean_conservation,nucleotide_diversity_pi
+S,3822,132,34.5,94.2,0.0246,0.9894,0.01032
+E,228,4,17.5,96.5,0.0083,0.9964,0.00314
+M,669,12,17.9,97.3,0.0113,0.9951,0.00473
+N,1260,27,21.4,95.7,0.018,0.9923,0.00787
+RdRp,2796,13,4.6,98.6,0.0034,0.9985,0.00136
